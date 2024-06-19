@@ -44,4 +44,7 @@
     right: -100px;
     width: 250px;
   }
+  .header .image-container {
+    margin-top: 30px;
+  }
 }
